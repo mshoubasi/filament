@@ -9,11 +9,7 @@
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
-        },
-        {
-  "src": "/(.*\\.(css|js|jpg|jpeg|png|gif|ico|svg|woff|woff2|ttf))$"
-              "dest": "/public/$1"
-        },
+        }
     ],
     "env": {
         "APP_ENV": "production",
