@@ -14,7 +14,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://filament-lqbshsol7-shoubasis-projects.vercel.app/",
-
+        "APP_KEY": "base64:LNlODIg16XOFAWNDiKGbc+ofodwsuR19stK4NceBy7Q=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
